@@ -27,6 +27,16 @@ export default class MyProjects extends Component {
         repo: 'https://github.com/MkrtichSargsyan/jobocity-frontend',
       },
       {
+        title: 'Witcher Info',
+        description:
+          "This project is for showing the characters and creatures from the witcher game",
+        image: '/screenshots/witcher.png',
+        stack:
+          'JavaScript/ES6, Jest, React.js, React Hooks, React Router, Redux, Redux-thunk, Tailwind.CSS, Netlify functions',
+        live: 'https://determined-ritchie-1e224a.netlify.app',
+        repo: 'https://github.com/MkrtichSargsyan/witcher-info',
+      },
+      {
         title: 'Transactions',
         description:
           'A mobile app where users can create, edit and delete transactions and group them.',
